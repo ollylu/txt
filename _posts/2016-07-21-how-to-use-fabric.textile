@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fabric的安装与使用
+title: Fabric的安装与使用2
 ---
 
 h1. {{ page.title }}
