@@ -1,0 +1,3 @@
+baseurl: /tpw
+markdown: rdiscount
+pygments: true
